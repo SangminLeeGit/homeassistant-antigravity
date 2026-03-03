@@ -1,4 +1,9 @@
 # Temporary/raw API dump files
 ha_states.json
 ha_config.json
+ha_dashboards_list.json
+ha_dashboard_default.json
+ha_all_dashboards.json
 parse_ha.py
+fetch_dashboards.py
+ha_report.md
