@@ -4,6 +4,8 @@ ha_config.json
 ha_dashboards_list.json
 ha_dashboard_default.json
 ha_all_dashboards.json
+ha_dashboard.json
 parse_ha.py
 fetch_dashboards.py
+apply_dashboard.py
 ha_report.md
