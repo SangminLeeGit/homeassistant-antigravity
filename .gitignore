@@ -8,4 +8,12 @@ ha_dashboard.json
 parse_ha.py
 fetch_dashboards.py
 apply_dashboard.py
+apply_printer_dashboard.py
+rename_automations.py
+setup_surveillance.py
+update_home_plus.py
+list_printer_entities.py
+quickfix.py
 ha_report.md
+printer_entities.txt
+surv_output.txt
