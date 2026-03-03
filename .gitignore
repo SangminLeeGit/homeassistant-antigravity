@@ -1,0 +1,4 @@
+# Temporary/raw API dump files
+ha_states.json
+ha_config.json
+parse_ha.py
